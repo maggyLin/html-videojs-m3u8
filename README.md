@@ -3,3 +3,4 @@
 
 # video.js doc
 > https://docs.videojs.com/
+> https://docs.videojs.com/docs/api/player.html
